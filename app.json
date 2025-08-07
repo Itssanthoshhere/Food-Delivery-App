@@ -33,6 +33,14 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
+      ],
+      [
+        "@sentry/react-native/expo",
+        {
+          "url": "https://sentry.io/",
+          "project": "cws_reactnative_food-ordering",
+          "organization": "bennett-university-uh"
+        }
       ]
     ],
     "experiments": {
