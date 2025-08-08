@@ -13,11 +13,12 @@
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="TypeScript" />
   </div>
 
-  <h3 align="center">Food Delivery Mobile App</h3>
+  <h2 align="center">🍔 Food Delivery Mobile App</h2>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+  <p align="center">
+    A modern, full-stack food delivery app built with React Native, Expo, TailwindCSS, and Appwrite.  
+    Smooth UI, scalable backend, and a clean developer experience — all in one.
+  </p>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -26,24 +27,16 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets](#links)
-6. 🚀 [More](#more)
+5. 📞 [Contacts](#contacts)
+6. 🚀 [Show Your Support](#show-your-support)
 
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://www.youtube.com/watch?v=LKrX390fJMw" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
 Built with React Native, TypeScript, and Tailwind CSS, this full-stack Food Delivery app features Google Authentication, dynamic search and filters, cart functionality, and smooth navigation. Powered by Appwrite for backend, database, and file storage, it delivers a responsive, scalable, and intuitive user experience with modern UI/UX best practices.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
+The goal? **A scalable, user-friendly app with modern UI/UX best practices**.
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -67,8 +60,6 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 ## <a name="features">🔋 Features</a>
 
-### Features of the Mobile Movie AppProject
-
 👉 **Google Authentication**: Secure and seamless user sign-ins using Google.  
 
 👉 **Home Page**: Showcases the latest offers and directs users to filtered search results.  
@@ -85,6 +76,8 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 and many more, including code architecture and reusability.
 
+
+
 ## <a name="quick-start">🤸 Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
@@ -100,8 +93,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/food_ordering.git
-cd food_ordering
+git https://github.com/Itssanthoshhere/Food-Delivery-App.git
+cd Food-Delivery-App
 ```
 
 **Installation**
@@ -121,7 +114,8 @@ EXPO_PUBLIC_APPWRITE_PROJECT_ID=
 EXPO_PUBLIC_APPWRITE_ENDPOINT=
 ```
 
-Replace the placeholder values with your actual credentials by signing up on the **[Appwrite](https://jsm.dev/rn25-restate)** dashboard.
+Get credentials from your **[Appwrite Dashboard](https://appwrite.io/)**.
+
 
 **Running the Project**
 
@@ -131,22 +125,28 @@ npx expo start
 
 Open your ExpoGO app on your phone and scan the QR code to view the project.
 
-## <a name="links">🔗 Assets</a>
+---
 
-Assets and snippets used in the project can be found in the **[video kit](https://jsmastery.com/video-kit/d6633345-8797-4b96-8a4b-935618306d1d)**.
+## 🙌 Special Thanks
 
-<a href="https://jsmastery.com/video-kit/d6633345-8797-4b96-8a4b-935618306d1d" target="_blank">
-  <img src="assets/readme/videokit.png" alt="Video Kit Banner">
-</a>
+Inspired by **JavaScript Mastery’s** tutorials, but built with my own improvements, custom UI, and bug fixes.
 
-## <a name="more">🚀 More</a>
+---
 
-**Advance your skills with Next.js Pro Course**
+## <a name="contacts">🔗 Contacts</a>
 
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
+Feel free to connect with me:
 
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
+* GitHub: [Itssanthoshhere](https://github.com/Itssanthoshhere)
+* LinkedIn: [Santhosh VS](https://www.linkedin.com/in/thesanthoshvs/)
 
-<a href="https://jsm.dev/rn-food-jsm" target="_blank">
-   <img src="assets/readme/jsmpro.png" alt="Project Banner">
-</a>
+---
+
+## ⭐️ Show Your Support
+
+If you liked this project, drop a ⭐ on the repo and share it with others!
+
+
+
+
+
