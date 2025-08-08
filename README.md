@@ -56,7 +56,19 @@ The goal? **A scalable, user-friendly app with modern UI/UX best practices**.
 
 - **[Sentry](https://jsm.dev/rn-food-sentry)** is a powerful error tracking and performance monitoring tool for React Native apps. It helps you detect, diagnose, and fix issues in real-time to improve app stability and user experience.
 
+## 🎨 UI/UX Design
 
+The entire interface of **Food Ordering App** was meticulously crafted using **Figma**, focusing on a smooth and intuitive food-booking experience. Every screen—from onboarding to payment—follows a clean, modern, and user-friendly design system.
+
+<p align="center">
+  <a href="https://www.figma.com/design/FGHC0TYI24OH28CgTu4VZx/Food-Delivery-App?node-id=0-1&t=B938Im9U84TKMYmd-1" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Figma%20Design-blue?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Link" />
+  </a>
+</p>
+
+> ✨ Built with attention to detail for a seamless user journey on both Android and iOS platforms.
+
+---
 
 ## <a name="features">🔋 Features</a>
 
