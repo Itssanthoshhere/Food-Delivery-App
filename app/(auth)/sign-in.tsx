@@ -1,8 +1,8 @@
 import {View, Text, Alert} from 'react-native'
 import {Link, router} from "expo-router";
 import {useState} from "react";
-import CustomInput from "@/Components/CustomInput";
-import CustomButton from "@/Components/CustomButton";
+import CustomInput from "@/components/CustomInput";
+import CustomButton from "@/components/CustomButton";
 import {signIn} from "@/lib/appwrite";
 import * as Sentry from '@sentry/react-native'
 

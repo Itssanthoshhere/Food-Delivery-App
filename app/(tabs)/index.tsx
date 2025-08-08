@@ -3,7 +3,7 @@ import {FlatList, Image, Pressable, Text, TouchableOpacity, View} from "react-na
 import {Fragment} from "react";
 import cn from 'clsx';
 
-import CartButton from "@/Components/CartButton";
+import CartButton from "@/components/CartButton";
 import {images, offers} from "@/constants";
 import useAuthStore from "@/store/auth.store";
 
